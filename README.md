@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="LumaTech logo" src="https://github.com/user-attachments/assets/0e6e9fab-9507-41cd-90c3-d8710ee875b8" />
+  <img width="300" alt="LumaTech logo" src="https://github.com/user-attachments/assets/0e6e9fab-9507-41cd-90c3-d8710ee875b8" />
 </p>
 
 
