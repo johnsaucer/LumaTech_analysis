@@ -21,8 +21,14 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 From 2019-2022, over **108K orders generated $28M in sales, with both metrics showing a 28% growth increase** over this four-year period. Particularly noteworthy, **sales surged dramatically by over 6M in 2020** during the onset of the pandemic, as consumer purchasing patterns pivoted sharply toward online ordering. However, this momentum did not sustain through 2021 and 2022, as **trends in sales (-46%), average order value (AOV) (-10%), and order count (-40%) showed substantial declines.** Finding ways to maintain the value captured during 2020 and 2021 is key to continue towards sustained long term growth.
 
-(sales,aov,order count chart)
-<img width="1832" height="859" alt="ChatGPT Image Sep 23, 2026, 06_56_46 PM" src="https://github.com/user-attachments/assets/324d1d3e-25d8-4e16-84d0-0189a78559c6" />
+<p align="center">
+  <img width="80%" alt="Historical monthly revenue" src="https://github.com/user-attachments/assets/324d1d3e-25d8-4e16-84d0-0189a78559c6" />
+</p>
+
+<p align="center">
+  <img width="80%" alt="Growth rates heatmap" src="https://github.com/user-attachments/assets/84ea88c5-d635-4a51-885a-7a9e0be1a025"  />
+</p>
+
 
 
 
