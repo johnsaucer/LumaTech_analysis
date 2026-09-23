@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Sep 23, 2026, 07_20_18 PM" src="https://github.com/user-attachments/assets/fd717acb-12e4-4755-8cce-bac05a4b5552" />
+<img width="1536" height="1024" alt="ChatGPT Image Sep 23, 2026, 07_20_18 PM" src="https://github.com/user-attachments/assets/5a64d8c6-e05d-4d64-8305-5cff2dc980c5" />
 <p align="center">
   <img width="200" alt="LumaTech logo" src="https://github.com/user-attachments/assets/0e6e9fab-9507-41cd-90c3-d8710ee875b8" />
 </p>
@@ -26,7 +28,7 @@ From 2019-2022, over **108K orders generated $28M in sales, with both metrics sh
 </p>
 
 <p align="center">
-  <img width="80%" alt="Growth rates heatmap" src="https://github.com/user-attachments/assets/84ea88c5-d635-4a51-885a-7a9e0be1a025"  />
+  <img width="80%" alt="Growth rates heatmap" src="https://github.com/user-attachments/assets/8cf6c928-fb5f-4366-9816-bd62e91de9e3"  />
 </p>
 
 
