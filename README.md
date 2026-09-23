@@ -1,9 +1,6 @@
-<img width="1536" height="1024" alt="ChatGPT Image Sep 23, 2026, 07_20_18 PM" src="https://github.com/user-attachments/assets/fd717acb-12e4-4755-8cce-bac05a4b5552" />
-<img width="1536" height="1024" alt="ChatGPT Image Sep 23, 2026, 07_20_18 PM" src="https://github.com/user-attachments/assets/5a64d8c6-e05d-4d64-8305-5cff2dc980c5" />
 <p align="center">
-  <img width="200" alt="LumaTech logo" src="https://github.com/user-attachments/assets/0e6e9fab-9507-41cd-90c3-d8710ee875b8" />
+  <img width="500" alt="LumaTech logo" src="https://github.com/user-attachments/assets/0e6e9fab-9507-41cd-90c3-d8710ee875b8" />
 </p>
-
 
 # <p align="center"> E-commerce Analysis
 **LumaTech** is a global e-commerce company that has sold more than **28M** dollars of popular electronics since its inception in 2019. With vast amounts of previously underutilized data on sales, product offerings, the loyalty program, and refunds, I am partnering with the head of the Operations team to thoroughly analyze this information and uncover critical insights. This analysis and recommendations will be used to enhance **LumaTech's** commercial performance across the sales, marketing, and product teams.
