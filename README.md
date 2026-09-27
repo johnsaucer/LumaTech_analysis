@@ -49,7 +49,8 @@ Across the four years, non-loyalty customers generated more revenue than loyalty
 
 Average order value (AOV) shows the same divergence. Loyalty AOV climbed from $207 in 2019 to $249 in 2021 and held at $245 in 2022, while non-loyalty AOV was volatile, spiking to $345 in 2020 before dropping to $214 in 2022. That put loyalty ahead on AOV in 2022. Loyalty customers also make their first purchase sooner: 1.6 months after account creation vs. 2.3 months for non-loyalty, roughly 30% faster. Evidence suggests that the loyalty program's AOV has been steadily growing, as opposed to the volatile non-loyalty program
 <p align="center">
-<img width="900" height="400" alt="Loyalty vs Non-Loyalty AOV" src="https://github.com/user-attachments/assets/247c316e-a38b-43fb-a01e-084f4e40b272" />
+<img width="70%" alt="Loyalty Non-Loyalty aov" src="https://github.com/user-attachments/assets/58d10bd7-fc3d-4dfa-a39c-695e79f57cf7" />
+
 </p>
 
 ## <p align="center"> Regional Comparisons
