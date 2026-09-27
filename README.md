@@ -70,7 +70,8 @@ Sales and average order value (AOV) fell in every region in 2022. North America'
 The stakeholder wants to focus on Apple products, so the Return Rate - Apple Products chart is the starting point. MacBook Air laptops have the highest refund rate of the three, at 18% in 2019 and 17% in 2020, before falling to 6% in 2021. iPhones followed a similar path (11%, 11%, 5%), and AirPods headphones were the lowest (6%, 10%, 4%). Averaged over 2019-2021, that works out to 13% for MacBooks, 9% for iPhones, and 7% for AirPods. Refund rates rise with price: AirPods sell for about $160, iPhones for about $710-$750, and MacBooks for about $1,500-$1,650. AirPods still generate the most Apple refunds by count (473 in 2019, 1,529 in 2020, 634 in 2021) because they sell in far greater volume. Apple refunds more than tripled from 545 in 2019 to 1,853 in 2020, alongside the pandemic sales surge. iPhone refund counts are tiny (4 to 13 per year), so those rates are volatile.
 
 <p align="center">
-<img width="700" height="400" alt="Return Rate - Apple Products" src="https://github.com/user-attachments/assets/9f3b95ab-da21-4ce4-8006-0ab0c30897fb" />
+<img width="80%" alt="ChatGPT Image Sep 27, 2026, 05_42_28 PM" src="https://github.com/user-attachments/assets/ca35fc9c-39ed-409a-aa67-09335e232cf3" />
+
 </p>
 
 Across all products, the same pattern holds. ThinkPad laptops (14%) and MacBooks (13%) have the highest average refund rates, followed by iPhones (9%), gaming monitors (8%), AirPods (7%), webcams (4%), and charging cable packs (2%), with Bose soundsport headphones at 0%. The overall average is 6%. By share of total refunds, AirPods account for 49.0% and gaming monitors 26.9%, largely because of sales volume, while MacBooks make up 8.4% and ThinkPads 6.4%. This fits typical consumer behavior: low-priced accessories are returned least, and customers often buy several sets of headphones over the life of a single laptop.
