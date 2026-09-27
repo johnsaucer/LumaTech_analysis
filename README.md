@@ -63,7 +63,8 @@ Sales and average order value (AOV) fell in every region in 2022. North America'
 
 
 <p align="center">
-<img width="900" height="400" alt="ChatGPT Image Sep 26, 2026, 12_41_30 PM" src="https://github.com/user-attachments/assets/786c6b60-9799-462b-8d0d-6a117d673f26" />
+<img width="90%" alt="AOV By Region" src="https://github.com/user-attachments/assets/265f8894-675c-4e14-b26c-40fdcb6d9a5f" />
+
 </p>
 
 ## <p align="center"> Refund Rates
