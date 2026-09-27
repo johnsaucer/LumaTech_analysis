@@ -43,7 +43,8 @@ The 2020-2022 pattern was not product-specific. Every product declined in 2022, 
 
 Across the four years, non-loyalty customers generated more revenue than loyalty members, $17.1M versus $11.0M, or about 61% of the $28.1M total. The yearly trend tells a different story. Non-loyalty sales peaked at $7.2M in 2020 and fell to $2.2M by 2022, likely because that surge was driven by one-time buyers. Loyalty sales held up far better and passed non-loyalty in 2021 ($4.9M vs. $4.3M). By 2022, loyalty members made up about 55% of sales, up from 11% in 2019. They also placed more orders than non-loyalty customers from 2021 onward (19,552 vs. 16,306 in 2021). 
 <p align="center">
-<img width="700" height="400" alt="Loyalty vs Non-Loyalty % Sales, 2019-2022" src="https://github.com/user-attachments/assets/b5d99f74-2d7e-489c-ba1e-7e3fd91c33dc" />
+<img width="70" alt="Loyalty Non-Loyalty % Sales" src="https://github.com/user-attachments/assets/589eb5f9-df9d-4dd5-9864-d8ff1d443456" />
+
 </p>
 
 Average order value (AOV) shows the same divergence. Loyalty AOV climbed from $207 in 2019 to $249 in 2021 and held at $245 in 2022, while non-loyalty AOV was volatile, spiking to $345 in 2020 before dropping to $214 in 2022. That put loyalty ahead on AOV in 2022. Loyalty customers also make their first purchase sooner: 1.6 months after account creation vs. 2.3 months for non-loyalty, roughly 30% faster. Evidence suggests that the loyalty program's AOV has been steadily growing, as opposed to the volatile non-loyalty program
