@@ -33,7 +33,7 @@ Sales typically dip in February and October relative to the months before them, 
 Three products drive CoreTech's revenue: the 27in 4K gaming monitor, Apple AirPods headphones, and the MacBook Air laptop. Together they account for 85% of all-time revenue ($28.1M), with the monitor alone contributing 35%, AirPods 28%, and the MacBook 22%.
 
 <p align="center">
-  <img width="700" height="400" alt="Yearly Rev Share By Product, 2019-2022" src="https://github.com/user-attachments/assets/d955ad1d-2a58-4a6e-a63a-3d237193b7fa" />
+  <img width="48%" alt="ChatGPT Image Sep 27, 2026, 04_46_44 PM" src="https://github.com/user-attachments/assets/0fdd8b91-fda1-4fed-ae27-0db8e3354dc9" />
 </p>
 
 The Apple iPhone posted the highest sales growth during the holiday season at 82%. At the other end, Bose Soundsport headphones significantly underperformed, generating less than 1% of total sales and falling 91% in 2022, the steepest decline of any product.
