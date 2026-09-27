@@ -7,12 +7,7 @@
 
 The ERD Diagram can be found [here](./path/to/file.md)
 
-The SQL queries performed to uncover these insights can be found (here)
-
-## <p align="center"> ERD Diagram
-LumaTech's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
-<img width="1875" height="1114" alt="image" src="https://github.com/user-attachments/assets/d6d58ba1-5461-4303-9673-3a877abdeb58" />
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. 
+The SQL queries performed to uncover these insights can be found [here](
 
 # <p align="center"> Deep Dive Insights
 ## <p align="center"> Sales Trends
