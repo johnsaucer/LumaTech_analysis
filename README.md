@@ -61,10 +61,8 @@ North America is LumaTech's dominant market, generating $14.5M of the $28M in to
 </p>
 Sales and average order value (AOV) fell in every region in 2022. North America's AOV was $237, second only to APAC's $249 and 41% above LATAM, the lowest at $168. LATAM's AOV decline is the sharpest: after peaking at $295 in 2020, it fell to $215 in 2021 and $168 in 2022, a 43% drop. That is roughly double the 21-22% declines APAC, EMEA, and North America saw over the same period. The 2022 product mix helps explain it. LATAM leaned more into lower-priced accessories, with charging cable packs at 3.2% of its sales (vs. 1.3-1.6% elsewhere) and webcams at 3.9% (vs. 1.5-2.7%).
 
-
 <p align="center">
 <img width="90%" alt="AOV By Region" src="https://github.com/user-attachments/assets/265f8894-675c-4e14-b26c-40fdcb6d9a5f" />
-
 </p>
 
 ## <p align="center"> Refund Rates
