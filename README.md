@@ -105,6 +105,6 @@ The SQL queries performed to uncover these insights can be found [here](https://
 - **Market iPhone to existing Apple buyers during the holidays.** iPhone already shows 82% holiday growth on a very small base.
 - **Reduce reliance on the top three products.** Add accessories that pair with them, such as monitor and laptop add-ons and Apple charging cables, to raise AOV.
 - **Lift LATAM AOV with bundles.** Pair the accessories LATAM customers already buy with core products.
-- **Discontinue Bose SoundSport** after selling through the remaining inventory with bundles or flash sales.
+- **Re-evaluate Bose SoundSport**. With <1% of all time sales, the company should deprioritize inventory for this product. 
 - **Fix refund tracking** before making any policy decisions based on 2021–2022 refund data.ced accessories with core products to lift order value.
 - **Investigate the refund data gap** before drawing conclusions from 2021–2022 refund trends.
