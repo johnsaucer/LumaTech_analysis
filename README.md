@@ -83,7 +83,7 @@ The SQL queries performed to uncover these insights can be found [here](https://
 ## <p align="center"> Refund Rates
 
 ### Apple Products (stakeholder focus)
-- **Refund rates rise with price.** The average refund rate is 7% for AirPods (~$160), 9% for iPhone (~$730), and 13% for MacBook (~$1,600).
+- **Refund rates rise with price.** The average refund rate is 7% for AirPods (aprox. $160), 9% for iPhone (aprox. $730), and 13% for MacBook (approx. $1,600).
 - **MacBook carries the most refund exposure per unit.** At a 13% refund rate, the expected refund is about $208 per MacBook sold, compared with about $11 per AirPods unit. AirPods generate the most refunds by count only because they sell in much higher volume.
 - **iPhone rates are unreliable.** There were only 4–13 refunds per year, too few for a stable rate.
 
