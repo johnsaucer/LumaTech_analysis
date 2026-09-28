@@ -80,8 +80,8 @@ The SQL queries performed to uncover these insights can be found [here](https://
 - **2022:** every region declined. APAC fell -52%, EMEA -51%, and LATAM -56%, while NA held up best at **-39%**.
 <p align="center">
   <img width="90%" alt="Yearly Sales By Region" src="https://github.com/user-attachments/assets/8f36da9a-728f-404e-946d-fdb0713b9b04" />
-
 </p>
+
 - **2022 AOV by region:** APAC **$249**, NA **$237**, EMEA **$225**, LATAM **$168** (NA is 41% above LATAM).
 - **LATAM's AOV fell the most:** $295 → $215 → **$168** (2020–2022), a **43% drop**. That is roughly double the 21–22% declines in the other regions.
 - **Why:** LATAM's 2022 mix leaned toward cheaper accessories:
