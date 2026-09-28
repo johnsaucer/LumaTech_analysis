@@ -83,36 +83,28 @@ The SQL queries performed to uncover these insights can be found [here](https://
 ## <p align="center"> Refund Rates
 
 ### Apple Products (stakeholder focus)
-- **MacBook Air has the highest refund rate:** 18% → 17% → 6% (2019–2021), for a **13% average**.
-- **iPhone:** 11% → 11% → 5% (**9% average**). Only 4–13 refunds per year, so this rate is volatile.
-- **AirPods:** 6% → 10% → 4% (**7% average**).
-- **Refund rate rises with price:** AirPods sell for ~$160, iPhones for ~$710–750, and MacBooks for ~$1,500–1,650.
-- **AirPods lead Apple in refund *count*** (473 → 1,529 → 634) because of their sales volume.
-- **Apple refunds more than tripled in 2020** (545 → 1,853), alongside the sales surge.
+- **Refund rates rise with price.** The average refund rate is 7% for AirPods (~$160), 9% for iPhone (~$730), and 13% for MacBook (~$1,600).
+- **MacBook carries the most refund exposure per unit.** At a 13% refund rate, the expected refund is about $208 per MacBook sold, compared with about $11 per AirPods unit. AirPods generate the most refunds by count only because they sell in much higher volume.
+- **iPhone rates are unreliable.** There were only 4–13 refunds per year, too few for a stable rate.
 
 <p align="center">
 <img width="80%" alt="ChatGPT Image Sep 27, 2026, 05_42_28 PM" src="https://github.com/user-attachments/assets/ca35fc9c-39ed-409a-aa67-09335e232cf3" />
-
 </p>
 
 ### All Products
-- **Average refund rate (2019–2021):** ThinkPad **14%**, MacBook **13%**, iPhone 9%, monitor 8%, AirPods 7%, webcam 4%, cable pack 2%, Bose 0%. The overall average is **6%**.
-- **Share of total refunds:** AirPods **49.0%**, monitor **26.9%**, MacBook 8.4%, ThinkPad 6.4%. These shares are driven mainly by volume.
-- **Pattern:** low-priced accessories are returned least; high-priced laptops are returned most.
+- **Laptops are the refund risk.** ThinkPad (14%) and MacBook (13%) have the highest rates, while accessories stay at 0–4%. The overall rate is 6%.
+- **Refund counts track volume, not risk.** AirPods (49%) and monitors (27%) account for most refunds by count because they are the highest-selling products.
 
 ### Data Quality Flag
-- **2021 refunds fell sharply for every product** (overall 9% → 4%; ThinkPad 17% → 9%; monitor 11% → 5%).
-- **2022 shows zero refunds** across all products.
-- **Likely cause:** a drop this uniform points to **incomplete refund tracking or a new return restriction**, not a change in customer behavior.
-- **What to check:** if a no-refund policy began in 2021, it may also have affected purchasing and customer satisfaction. This should be confirmed with the Operations team.
+- **The 2021–2022 refund data is unreliable.** Every product's refund rate fell in 2021 (overall 9% → 4%), and 2022 shows zero refunds. A drop this uniform points to a tracking gap or a policy change, not a change in customer behavior.
+- **Refund trends after 2020 should not be used until this is confirmed with Operations.** If a no-refund policy started in 2021, it may also help explain the 2022 declines in sales and loyalty activity.
 
 ## <p align="center"> Recommendations
-- **Diversify beyond the top 3 products.** 85% of revenue comes from three products. Expand accessories (e.g., Apple charging cables) to create upsell opportunities.
-- **Push iPhone marketing to existing Apple buyers.** iPhones are ~1% of revenue but show the strongest holiday growth. Concentrate campaigns in Nov–Dec.
-- **Grow the Samsung line.** Samsung accessories are a growing share of orders. Consider adding higher-priced Samsung products in categories LumaTech already carries (laptops, phones).
-- **Sell through, then discontinue, Bose SoundSport.** It has never exceeded 1% of revenue. Use bundles and flash sales first.
-- **Invest in the loyalty program.** Members are more stable, have higher AOV, and buy sooner.
-  - Offer a one-time sign-up discount to convert non-members.
-  - Use past order data for targeted replacement and upgrade campaigns.
-- **Protect LATAM AOV.** Bundle low-priced accessories with core products to lift order value.
+- **Build the loyalty program around purchase frequency.** Loyalty members drove all net growth and spend steadily per order; their 2022 decline came from fewer orders. Use purchase history to trigger replacement and upgrade campaigns, and offer a sign-up discount to convert one-time buyers.
+- **Concentrate promotions in November–December and fill the February and October dips.** The holiday lift is the most dependable demand in the data.
+- **Market iPhone to existing Apple buyers during the holidays.** iPhone already shows 82% holiday growth on a very small base.
+- **Reduce reliance on the top three products.** Add accessories that pair with them, such as monitor and laptop add-ons and Apple charging cables, to raise AOV.
+- **Lift LATAM AOV with bundles.** Pair the accessories LATAM customers already buy with core products.
+- **Discontinue Bose SoundSport** after selling through the remaining inventory with bundles or flash sales.
+- **Fix refund tracking** before making any policy decisions based on 2021–2022 refund data.ced accessories with core products to lift order value.
 - **Investigate the refund data gap** before drawing conclusions from 2021–2022 refund trends.
