@@ -13,12 +13,10 @@ The SQL queries performed to uncover these insights can be found [here](https://
 ## <p align="center"> Sales Trends
 ### Overview:
 
-- **2020 was the peak year:** sales rose **163%** to $10.2M (+$6.3M), with AOV up 31% and order count up 101%, driven by the pandemic shift to online shopping.
-- **2021 was mixed:** order count grew 6%, but AOV fell 15% ($300 → $255). This led to a **10% drop in sales**. More customers bought, but they spent less per order.
-- **2022 was the worst year:** sales fell **46%**, AOV fell 10%, and order count fell 40%.
-- **Net 4-year change:** sales and order count are both up ~28% from 2019 to 2022, but most of the 2020 gains were lost.
-- **Best single month:** December 2020 at **$1.25M**.
-- **2022 got worse as the year went on:** sales were down year over year in every month, and from August onward the declines reached 48–73%.
+- **2020 was a one-time spike.** Sales rose 163% to $10.2M. That single year made up 36% of all four years' revenue. Both demand and spend per order rose: order count doubled and AOV rose 31%.
+- **2021 hid a problem.** Orders grew 6%, but sales fell 10%. The cause was the product mix. Laptop sales (MacBook + ThinkPad) dropped $1.3M, which covers the entire decline, while lower-priced monitors grew. Customers kept buying, but they bought cheaper items.
+- **2022 undid the pandemic gains.** Sales fell 46% and orders fell 40%. AOV returned to $230, exactly the 2019 level. The 28% net growth from 2019 to 2022 came entirely from more orders; spend per order did not grow at all.
+- **The business ended 2022 below where it started.** Q4 2022 sales ($649K) were 45% below Q4 2019. October 2022 ($178K) was the lowest month in the dataset. Momentum going into 2023 is negative.
 
 <p align="center">
   <img width="54%" alt="Historical Monthly Rev" src="https://github.com/user-attachments/assets/87fad8c3-32e6-431d-81f4-02a0c8edcda2" />
@@ -30,63 +28,53 @@ The SQL queries performed to uncover these insights can be found [here](https://
 
 ### Seasonality Trends:
 
-- **February** drops sharply from January every year (-31% to -33%), except in 2020 (+4%).
-- **October** is consistently the weakest month (-18% to -26% MoM). October 2022 was an outlier at **-55%**, which suggests something beyond normal seasonality.
-- **November–December** show a holiday surge every year, including 2022.
+**Holiday demand is the most reliable pattern in the data.** November and December grew month over month every year, even in 2022 (+17%, +26%). This is the best window for promotions.
+- **February and October are consistent soft spots.** February typically drops about 32% from January, and October about 18–26% from September. Both are candidates for off-peak promotions.
+- **October 2022 (-55% MoM) broke the pattern.** A drop that far outside the normal range suggests an event beyond seasonality and should be investigated.
+- **March 2020 (+50%)** marks the start of the COVID surge, compared with the usual 6–11% March lift.
 
 
 ## <p align="center"> Product Performance
 
-- **Three products drive 85% of all-time revenue ($28.1M):**
-  - 27in 4K gaming monitor: **35%** ($9.85M)
-  - Apple AirPods headphones: **28%** ($7.74M)
-  - MacBook Air laptop: **22%** ($6.30M)
-- **Revenue share is stable:** this top-3 share held steady from 2019 to 2022.
+- **Revenue is highly concentrated.** The gaming monitor (35%), AirPods (28%), and MacBook Air (22%) generate 85% of revenue, so these three products largely determine company performance.
 
 <p align="center">
   <img width="70%" alt="ChatGPT Image Sep 27, 2026, 04_46_44 PM" src="https://github.com/user-attachments/assets/0fdd8b91-fda1-4fed-ae27-0db8e3354dc9" />
 </p>
 
-- **2020 growth was broad-based:** MacBook +384%, ThinkPad +222%, iPhone +170%, monitor +114%, AirPods +99%.
-- **Every product declined in 2022:** drops ranged from -31% (webcam) to -91% (Bose). The downturn was not tied to any single product; demand fell proportionally after COVID.
-- **Samsung Webcam** was the only product to grow in 2021 (**+134%**), while overall sales fell 10%. However, it makes up only 1% of all-time sales.
-- **Apple iPhone** posted the strongest holiday-season growth (**82%**), but it accounts for only ~1% of revenue ($213K all-time).
-- **Bose SoundSport headphones** are the weakest product: **<1% of revenue** ($3.3K all-time) and a **91% decline** in 2022.
+- **Laptops rose the most in 2020 and fell the most afterward.** MacBook (+384%) and ThinkPad (+222%) led the 2020 growth, likely because of work-from-home demand. MacBook then fell 35% in 2021 and 55% in 2022.
+- **The gaming monitor is the most resilient core product.** It was the only top product to grow in 2021 (+8%). Its 2022 sales still finished 35% above 2019.
+- **The 2022 decline was across the board.** Every product fell, and the four largest each lost $0.5–1.4M. This points to a drop in overall demand rather than a problem with any single product.
+- **iPhone is underused.** It accounts for about 1% of revenue, yet it shows the strongest holiday growth (82%). Demand exists but is not being captured the rest of the year.
+- **Bose SoundSport is dead weight.** It produced $3.3K in total revenue over four years, 0.01% of sales.
 ## <p align="center"> Loyalty Program
 
-- **All-time sales:** non-loyalty customers still lead, at **$17.1M (61%)** vs. **$11.0M** for loyalty members.
-- **Loyalty members overtook non-loyalty in 2021:** loyalty sales were **$4.9M vs. $4.3M**, and loyalty orders were **19,552 vs. 16,306**. Loyalty members stayed ahead in 2022.
-- **Loyalty share of sales grew from 11% (2019) to 55% (2022).**
-- **Non-loyalty sales were a 2020 spike:** they peaked at $7.2M, then fell to $2.2M by 2022. This points to one-time pandemic buyers, and their exit is a major reason for the downturn.
+- **All net growth came from loyalty members.** From 2019 to 2022, loyalty sales rose from $0.4M to $2.7M (+$2.3M). Non-loyalty sales fell from $3.5M to $2.2M, ending below their 2019 level.
+- **Non-loyalty demand was mostly temporary.** Non-loyalty sales peaked at $7.2M in 2020 and then fell 69% by 2022, the pattern of one-time pandemic buyers. Losing these buyers is the main cause of the downturn.
+- **Loyalty members became the core customer base.** They passed non-loyalty sales in 2021 and made up 55% of sales and 52% of orders in 2022, up from 11% of sales in 2019.
 <p align="center">
 <img width="70%" alt="Loyalty Non-Loyalty % Sales" src="https://github.com/user-attachments/assets/589eb5f9-df9d-4dd5-9864-d8ff1d443456" />
 
 </p>
 
-- **Loyalty AOV is steady and rising:** $207 → $228 → $249 → $245 (2019–2022).
-- **Non-loyalty AOV is volatile:** $233 → **$345** → $261 → $214. The monthly peak was ~$384 in late 2020.
-- **2022:** loyalty AOV passed non-loyalty AOV ($245 vs. $214). During the downturn, non-loyalty AOV dropped sharply while loyalty AOV barely moved.
-- **Faster first purchase:** loyalty members buy **1.6 months** after account creation, vs. **2.3 months** for non-loyalty (~30% faster).
+- **Loyalty spending per order is steadier.** Loyalty AOV stayed within $207–249 across all four years. Non-loyalty AOV swung from $214 to $345. In 2022, loyalty AOV held at $245 while non-loyalty AOV fell to $214.
+- **Loyalty members still declined in 2022, but through fewer orders, not smaller orders.** Loyalty orders fell 43% while their AOV held steady. The problem to solve is purchase frequency, not spend per order.
+- **Loyalty members buy sooner.** Their first purchase comes 1.6 months after sign-up, versus 2.3 months for non-loyalty customers (about 30% faster).
 <p align="center">
 <img width="70%" alt="Loyalty Non-Loyalty aov" src="https://github.com/user-attachments/assets/58d10bd7-fc3d-4dfa-a39c-695e79f57cf7" />
 
 </p>
 
 ## <p align="center"> Regional Comparisons
-- **North America dominates:** it generated **$14.6M** of $28.1M, more than EMEA, APAC, and LATAM combined.
-- **EMEA** is second at **$8.2M**. **APAC** ($3.7M) and **LATAM** ($1.7M) are minor markets.
-- **Regional mix is mostly flat year to year.** NA's share rose to **~55%** of 2022 sales (from ~49% in 2021), tying results even more closely to one region.
-- **2020:** every region grew 151–213%.
-- **2022:** every region declined. APAC fell -52%, EMEA -51%, and LATAM -56%, while NA held up best at **-39%**.
+- **North America is the main market.** It produced $14.6M (52% of sales), more than EMEA ($8.2M), APAC ($3.7M), and LATAM ($1.7M) combined.
+- **All regions rose and fell together.** Every region grew 151–213% in 2020 and declined in 2022. Because the swings were shared, the downturn was global rather than regional.
+- **North America's 2022 share gain reflects the other regions falling faster.** North America declined 39%, while the other regions fell 51–56%. This pushed its share to about 55%. Relying on North America is safer in the short term but increases concentration risk.
+
 <p align="center">
   <img width="90%" alt="Yearly Sales By Region" src="https://github.com/user-attachments/assets/8f36da9a-728f-404e-946d-fdb0713b9b04" />
 </p>
 
-- **2022 AOV by region:** APAC **$249**, NA **$237**, EMEA **$225**, LATAM **$168** (NA is 41% above LATAM).
-- **LATAM's AOV fell the most:** $295 → $215 → **$168** (2020–2022), a **43% drop**. That is roughly double the 21–22% declines in the other regions.
-- **Why:** LATAM's 2022 mix leaned toward cheaper accessories:
-  - Charging cable packs: 3.2% of sales (vs. 1.3–1.6% elsewhere)
-  - Webcams: 3.9% of sales (vs. 1.5–2.7% elsewhere)
+- **LATAM has a spend-per-order problem.** Its AOV fell 43% from 2020 to 2022 ($295 → $168), about twice the 21–22% drop elsewhere. The cause is product mix. In 2022, cable packs (3.2%) and webcams (3.9%) made up roughly double their share of sales in other regions. LATAM customers are still buying, but mostly low-priced accessories.
 
 <p align="center">
 <img width="90%" alt="AOV By Region" src="https://github.com/user-attachments/assets/265f8894-675c-4e14-b26c-40fdcb6d9a5f" />
