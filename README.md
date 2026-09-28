@@ -117,7 +117,6 @@ The SQL queries performed to uncover these insights can be found [here](https://
 - **2022 shows zero refunds** across all products.
 - **Likely cause:** a drop this uniform points to **incomplete refund tracking or a new return restriction**, not a change in customer behavior.
 - **What to check:** if a no-refund policy began in 2021, it may also have affected purchasing and customer satisfaction. This should be confirmed with the Operations team.
-## <p align="center"> Recommendations
 
 ## <p align="center"> Recommendations
 - **Diversify beyond the top 3 products.** 85% of revenue comes from three products. Expand accessories (e.g., Apple charging cables) to create upsell opportunities.
