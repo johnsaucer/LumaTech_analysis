@@ -3,7 +3,7 @@
 </p>
 
 # <p align="center"> E-commerce Analysis
-**LumaTech** is a global e-commerce company that has sold more than **28M** dollars of popular electronics since its inception in 2019. With vast amounts of previously underutilized data on sales, product offerings, the loyalty program, and refunds, I am partnering with the head of the Operations team to thoroughly analyze this information and uncover critical insights. This analysis and recommendations will be used to enhance **LumaTech's** commercial performance across the sales, marketing, and product teams.
+**LumaTech** is a global e-commerce company that has sold popular electronics since its launch in 2019, generating **$28.1M in sales across more than 108K orders** from customers in **North America, EMEA, APAC, and LATAM**. Its data on sales, products, the loyalty program, and refunds has gone largely unused. I partnered with the head of Operations to analyze this data and find out what drove the company's growth, what caused its decline, and where it can improve. The resulting insights and recommendations are aimed at strengthening LumaTech's commercial performance across the sales, marketing, and product teams.
 
 The Entity Relationship Diagram can be found [here](https://github.com/johnsaucer/LumaTech_analysis/blob/main/ERD.png)
 
