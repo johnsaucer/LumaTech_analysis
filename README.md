@@ -13,7 +13,12 @@ The SQL queries performed to uncover these insights can be found [here](https://
 ## <p align="center"> Sales Trends
 ### Overview:
 
-From 2019-2022, over **108K orders generated $28M in sales, with both metrics showing a 28% growth increase** over this four-year period. Particularly noteworthy, **sales surged dramatically by over 6M in 2020** during the onset of the pandemic, as consumer purchasing patterns pivoted sharply toward online ordering. However, this momentum did not sustain through 2021 and 2022, as **trends in sales (-46%), average order value (AOV) (-10%), and order count (-40%) showed substantial declines.** Finding ways to maintain the value captured during 2020 and 2021 is key to continue towards sustained long term growth.
+- **2020 was the peak year:** sales rose **163%** to $10.2M (+$6.3M), with AOV up 31% and order count up 101%, driven by the pandemic shift to online shopping.
+- **2021 was mixed:** order count grew 6%, but AOV fell 15% ($300 → $255). This led to a **10% drop in sales**. More customers bought, but they spent less per order.
+- **2022 was the worst year:** sales fell **46%**, AOV fell 10%, and order count fell 40%.
+- **Net 4-year change:** sales and order count are both up ~28% from 2019 to 2022, but most of the 2020 gains were lost.
+- **Best single month:** December 2020 at **$1.25M**.
+- **2022 got worse as the year went on:** sales were down year over year in every month, and from August onward the declines reached 48–73%.
 
 <p align="center">
   <img width="54%" alt="Historical Monthly Rev" src="https://github.com/user-attachments/assets/87fad8c3-32e6-431d-81f4-02a0c8edcda2" />
@@ -25,41 +30,63 @@ From 2019-2022, over **108K orders generated $28M in sales, with both metrics sh
 
 ### Seasonality Trends:
 
-Sales typically dip in February and October relative to the months before them, while December and January run high on holiday demand. March 2020 stands out as an exception: sales climbed 50% over February, well beyond the modest March gains seen across 2019-2022. This spike coincided with the onset of the COVID-19 pandemic, which likely drove the unusual surge rather than any normal seasonal pattern.
+- **February** drops sharply from January every year (-31% to -33%), except in 2020 (+4%).
+- **October** is consistently the weakest month (-18% to -26% MoM). October 2022 was an outlier at **-55%**, which suggests something beyond normal seasonality.
+- **November–December** show a holiday surge every year, including 2022.
 
 
 ## <p align="center"> Product Performance
 
-Three products drive CoreTech's revenue: the 27in 4K gaming monitor, Apple AirPods headphones, and the MacBook Air laptop. Together they account for 85% of all-time revenue ($28.1M), with the monitor alone contributing 35%, AirPods 28%, and the MacBook 22%.
+- **Three products drive 85% of all-time revenue ($28.1M):**
+  - 27in 4K gaming monitor: **35%** ($9.85M)
+  - Apple AirPods headphones: **28%** ($7.74M)
+  - MacBook Air laptop: **22%** ($6.30M)
+- **Revenue share is stable:** this top-3 share held steady from 2019 to 2022.
 
 <p align="center">
   <img width="70%" alt="ChatGPT Image Sep 27, 2026, 04_46_44 PM" src="https://github.com/user-attachments/assets/0fdd8b91-fda1-4fed-ae27-0db8e3354dc9" />
 </p>
 
-The Apple iPhone posted the highest sales growth during the holiday season at 82%. At the other end, Bose Soundsport headphones significantly underperformed, generating less than 1% of total sales and falling 91% in 2022, the steepest decline of any product.
-
-The 2020-2022 pattern was not product-specific. Every product declined in 2022, which suggests the business was reacting proportionally to post-COVID demand rather than losing ground in any one category.
+- **2020 growth was broad-based:** MacBook +384%, ThinkPad +222%, iPhone +170%, monitor +114%, AirPods +99%.
+- **Every product declined in 2022:** drops ranged from -31% (webcam) to -91% (Bose). The downturn was not tied to any single product; demand fell proportionally after COVID.
+- **Samsung Webcam** was the only product to grow in 2021 (**+134%**), while overall sales fell 10%. However, it makes up only 1% of all-time sales.
+- **Apple iPhone** posted the strongest holiday-season growth (**82%**), but it accounts for only ~1% of revenue ($213K all-time).
+- **Bose SoundSport headphones** are the weakest product: **<1% of revenue** ($3.3K all-time) and a **91% decline** in 2022.
 ## <p align="center"> Loyalty Program
 
-Across the four years, non-loyalty customers generated more revenue than loyalty members, $17.1M versus $11.0M, or about 61% of the $28.1M total. The yearly trend tells a different story. Non-loyalty sales peaked at $7.2M in 2020 and fell to $2.2M by 2022, likely because that surge was driven by one-time buyers. Loyalty sales held up far better and passed non-loyalty in 2021 ($4.9M vs. $4.3M). By 2022, loyalty members made up about 55% of sales, up from 11% in 2019. They also placed more orders than non-loyalty customers from 2021 onward (19,552 vs. 16,306 in 2021). 
+- **All-time sales:** non-loyalty customers still lead, at **$17.1M (61%)** vs. **$11.0M** for loyalty members.
+- **Loyalty members overtook non-loyalty in 2021:** loyalty sales were **$4.9M vs. $4.3M**, and loyalty orders were **19,552 vs. 16,306**. Loyalty members stayed ahead in 2022.
+- **Loyalty share of sales grew from 11% (2019) to 55% (2022).**
+- **Non-loyalty sales were a 2020 spike:** they peaked at $7.2M, then fell to $2.2M by 2022. This points to one-time pandemic buyers, and their exit is a major reason for the downturn.
 <p align="center">
 <img width="70%" alt="Loyalty Non-Loyalty % Sales" src="https://github.com/user-attachments/assets/589eb5f9-df9d-4dd5-9864-d8ff1d443456" />
 
 </p>
 
-Average order value (AOV) shows the same divergence. Loyalty AOV climbed from $207 in 2019 to $249 in 2021 and held at $245 in 2022, while non-loyalty AOV was volatile, spiking to $345 in 2020 before dropping to $214 in 2022. That put loyalty ahead on AOV in 2022. Loyalty customers also make their first purchase sooner: 1.6 months after account creation vs. 2.3 months for non-loyalty, roughly 30% faster. Evidence suggests that the loyalty program's AOV has been steadily growing, as opposed to the volatile non-loyalty program
+- **Loyalty AOV is steady and rising:** $207 → $228 → $249 → $245 (2019–2022).
+- **Non-loyalty AOV is volatile:** $233 → **$345** → $261 → $214. The monthly peak was ~$384 in late 2020.
+- **2022:** loyalty AOV passed non-loyalty AOV ($245 vs. $214). During the downturn, non-loyalty AOV dropped sharply while loyalty AOV barely moved.
+- **Faster first purchase:** loyalty members buy **1.6 months** after account creation, vs. **2.3 months** for non-loyalty (~30% faster).
 <p align="center">
 <img width="70%" alt="Loyalty Non-Loyalty aov" src="https://github.com/user-attachments/assets/58d10bd7-fc3d-4dfa-a39c-695e79f57cf7" />
 
 </p>
 
 ## <p align="center"> Regional Comparisons
-North America is LumaTech's dominant market, generating $14.5M of the $28M in total sales, more than EMEA, APAC, and LATAM combined. EMEA is a distant second at $8.22M, while APAC and LATAM are minor markets. In 2022, North America's share of revenue rose to 55% and its share of orders to 53% among known region sales, tying the company's results even more closely to one region's behavior.
+- **North America dominates:** it generated **$14.6M** of $28.1M, more than EMEA, APAC, and LATAM combined.
+- **EMEA** is second at **$8.2M**. **APAC** ($3.7M) and **LATAM** ($1.7M) are minor markets.
+- **Regional mix is mostly flat year to year.** NA's share rose to **~55%** of 2022 sales (from ~49% in 2021), tying results even more closely to one region.
+- **2020:** every region grew 151–213%.
+- **2022:** every region declined. APAC fell -52%, EMEA -51%, and LATAM -56%, while NA held up best at **-39%**.
 <p align="center">
   <img width="90%" alt="Yearly Sales By Region" src="https://github.com/user-attachments/assets/8f36da9a-728f-404e-946d-fdb0713b9b04" />
 
 </p>
-Sales and average order value (AOV) fell in every region in 2022. North America's AOV was $237, second only to APAC's $249 and 41% above LATAM, the lowest at $168. LATAM's AOV decline is the sharpest: after peaking at $295 in 2020, it fell to $215 in 2021 and $168 in 2022, a 43% drop. That is roughly double the 21-22% declines APAC, EMEA, and North America saw over the same period. The 2022 product mix helps explain it. LATAM leaned more into lower-priced accessories, with charging cable packs at 3.2% of its sales (vs. 1.3-1.6% elsewhere) and webcams at 3.9% (vs. 1.5-2.7%).
+- **2022 AOV by region:** APAC **$249**, NA **$237**, EMEA **$225**, LATAM **$168** (NA is 41% above LATAM).
+- **LATAM's AOV fell the most:** $295 → $215 → **$168** (2020–2022), a **43% drop**. That is roughly double the 21–22% declines in the other regions.
+- **Why:** LATAM's 2022 mix leaned toward cheaper accessories:
+  - Charging cable packs: 3.2% of sales (vs. 1.3–1.6% elsewhere)
+  - Webcams: 3.9% of sales (vs. 1.5–2.7% elsewhere)
 
 <p align="center">
 <img width="90%" alt="AOV By Region" src="https://github.com/user-attachments/assets/265f8894-675c-4e14-b26c-40fdcb6d9a5f" />
@@ -67,26 +94,38 @@ Sales and average order value (AOV) fell in every region in 2022. North America'
 
 ## <p align="center"> Refund Rates
 
-The stakeholder wants to focus on Apple products, so the Return Rate - Apple Products chart is the starting point. MacBook Air laptops have the highest refund rate of the three, at 18% in 2019 and 17% in 2020, before falling to 6% in 2021. iPhones followed a similar path (11%, 11%, 5%), and AirPods headphones were the lowest (6%, 10%, 4%). Averaged over 2019-2021, that works out to 13% for MacBooks, 9% for iPhones, and 7% for AirPods. Refund rates rise with price: AirPods sell for about $160, iPhones for about $710-$750, and MacBooks for about $1,500-$1,650. AirPods still generate the most Apple refunds by count (473 in 2019, 1,529 in 2020, 634 in 2021) because they sell in far greater volume. Apple refunds more than tripled from 545 in 2019 to 1,853 in 2020, alongside the pandemic sales surge. iPhone refund counts are tiny (4 to 13 per year), so those rates are volatile.
+### Apple Products (stakeholder focus)
+- **MacBook Air has the highest refund rate:** 18% → 17% → 6% (2019–2021), for a **13% average**.
+- **iPhone:** 11% → 11% → 5% (**9% average**). Only 4–13 refunds per year, so this rate is volatile.
+- **AirPods:** 6% → 10% → 4% (**7% average**).
+- **Refund rate rises with price:** AirPods sell for ~$160, iPhones for ~$710–750, and MacBooks for ~$1,500–1,650.
+- **AirPods lead Apple in refund *count*** (473 → 1,529 → 634) because of their sales volume.
+- **Apple refunds more than tripled in 2020** (545 → 1,853), alongside the sales surge.
 
 <p align="center">
 <img width="80%" alt="ChatGPT Image Sep 27, 2026, 05_42_28 PM" src="https://github.com/user-attachments/assets/ca35fc9c-39ed-409a-aa67-09335e232cf3" />
 
 </p>
 
-Across all products, the same pattern holds. ThinkPad laptops (14%) and MacBooks (13%) have the highest average refund rates, followed by iPhones (9%), gaming monitors (8%), AirPods (7%), webcams (4%), and charging cable packs (2%), with Bose soundsport headphones at 0%. The overall average is 6%. By share of total refunds, AirPods account for 49.0% and gaming monitors 26.9%, largely because of sales volume, while MacBooks make up 8.4% and ThinkPads 6.4%. This fits typical consumer behavior: low-priced accessories are returned least, and customers often buy several sets of headphones over the life of a single laptop.
+### All Products
+- **Average refund rate (2019–2021):** ThinkPad **14%**, MacBook **13%**, iPhone 9%, monitor 8%, AirPods 7%, webcam 4%, cable pack 2%, Bose 0%. The overall average is **6%**.
+- **Share of total refunds:** AirPods **49.0%**, monitor **26.9%**, MacBook 8.4%, ThinkPad 6.4%. These shares are driven mainly by volume.
+- **Pattern:** low-priced accessories are returned least; high-priced laptops are returned most.
 
-The sharp decline in 2021 deserves scrutiny. The overall refund rate fell from 9% in 2020 to 4% in 2021, and every product declined, with the ThinkPad falling from 17% to 9% and the gaming monitor from 11% to 5%. Apple products show zero refunds in 2022. A drop this uniform is more likely a data issue than a change in customer behavior, pointing to either incomplete refund tracking or a new return restriction. If a no-refund policy was introduced in 2021, it would explain the missing 2022 data and would likely have affected both buying patterns and customer satisfaction.
+### Data Quality Flag
+- **2021 refunds fell sharply for every product** (overall 9% → 4%; ThinkPad 17% → 9%; monitor 11% → 5%).
+- **2022 shows zero refunds** across all products.
+- **Likely cause:** a drop this uniform points to **incomplete refund tracking or a new return restriction**, not a change in customer behavior.
+- **What to check:** if a no-refund policy began in 2021, it may also have affected purchasing and customer satisfaction. This should be confirmed with the Operations team.
 ## <p align="center"> Recommendations
 
-Based on the uncovered insights, the following recommendations have been provided:
-
-With 85% of orders and 70% of revenue coming from just three products, diversifying the product portfolio is crucial. Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.
-
-Despite the general sales success of Apple products, iPhone sales have been disappointingly low (1% of revenue in 2022). Enhancing marketing efforts to previous Apple product buyers could boost sales.
-
-Look to capitalize on the growing share of Samsung accessories (32% of order count in 2022) by introducing higher-cost Samsung products in already carried product categories such as laptops and cellphones.
-
-Re-evaluate Bose SoundSport Headphones. As the product has never made up more than 1% of annual revenue, attempt to sell through the product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
-
-Continue and push forward the loyalty program. In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing.
+## <p align="center"> Recommendations
+- **Diversify beyond the top 3 products.** 85% of revenue comes from three products. Expand accessories (e.g., Apple charging cables) to create upsell opportunities.
+- **Push iPhone marketing to existing Apple buyers.** iPhones are ~1% of revenue but show the strongest holiday growth. Concentrate campaigns in Nov–Dec.
+- **Grow the Samsung line.** Samsung accessories are a growing share of orders. Consider adding higher-priced Samsung products in categories LumaTech already carries (laptops, phones).
+- **Sell through, then discontinue, Bose SoundSport.** It has never exceeded 1% of revenue. Use bundles and flash sales first.
+- **Invest in the loyalty program.** Members are more stable, have higher AOV, and buy sooner.
+  - Offer a one-time sign-up discount to convert non-members.
+  - Use past order data for targeted replacement and upgrade campaigns.
+- **Protect LATAM AOV.** Bundle low-priced accessories with core products to lift order value.
+- **Investigate the refund data gap** before drawing conclusions from 2021–2022 refund trends.
