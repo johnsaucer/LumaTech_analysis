@@ -19,8 +19,8 @@ The SQL queries performed to uncover these insights can be found [here](https://
 - **The business ended 2022 below where it started.** Q4 2022 sales ($649K) were 45% below Q4 2019. October 2022 ($178K) was the lowest month in the dataset. Momentum going into 2023 is negative.
 
 <p align="center">
-  <img width="54%" alt="Historical Monthly Rev" src="https://github.com/user-attachments/assets/87fad8c3-32e6-431d-81f4-02a0c8edcda2" />
-  <img width="44%" alt="Growth rates heatmap" src="https://github.com/user-attachments/assets/8cf6c928-fb5f-4366-9816-bd62e91de9e3" />
+  <img width="58%" alt="Historical Monthly Rev" src="https://github.com/user-attachments/assets/87fad8c3-32e6-431d-81f4-02a0c8edcda2" />
+  <img width="40%" alt="Growth rates heatmap" src="https://github.com/user-attachments/assets/8cf6c928-fb5f-4366-9816-bd62e91de9e3" />
 </p>
 
 
